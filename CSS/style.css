@@ -4,8 +4,8 @@ h1.header {
     font-size: 50px;
     color: white;
     text-align: center;
-
-    }
+    
+}
 
 h2 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -14,38 +14,36 @@ h2 {
 
 }
 
-    p {
-        font-family: Verdana, Geneva, Tahoma, sans-serif;
-        font-size: 21px;
-        color: gray;
-        text-align: center;
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+    text-align: center;
 
-    }
+}
 
-    p.download-link {
-        font-size: 16px;
-        color: aquamarine;
-    }
+p.download-link {
+    font-size: 16px;
+    color: aquamarine;
+}
 
-    p.footer {
-        color: gray;
-        text-align: right;
-    }
+p.footer {
+    color: gray;
+    text-align: right;
+}
 
-    body {
-        background-color: black;
-        text-align: center;
-    }
+body {
+    background-color: black;
+    text-align: center;
+}
 
-    video {
-        position: relative;
-        align-items: center;
+video {
+    position: relative;
+    align-items: center;
 
-    }
+}
 
-    img {
-        position: relative;
-        align-items: center;
-    }
-
-
+img {
+    position: relative;
+    align-items: center;
+}
