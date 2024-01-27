@@ -1,18 +1,40 @@
-.header--main {
-    font-weight: normal;
-    font-size: 50px;
-    color: white;
-}
+/* Main elements */
 
-h2 {
-    font-weight: 300;
-    font-size: 42px;
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 p {
     font-size: 21px;
     color: gray;
     text-align: center;
+}
+
+
+/* Headings */
+
+h4 {
+    color: gray;
+    font-size: 21px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+/* Classes */
+
+.header--main {
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+.header--secondary {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .download-link {
@@ -25,11 +47,8 @@ p {
     text-align: right;
 }
 
-body {
-    background-color: black;
-    text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
+
+/* Resources */
 
 video {
     position: relative;
