@@ -15,12 +15,12 @@ p {
     text-align: center;
 }
 
-p.download-link {
+.download-link {
     font-size: 16px;
     color: aquamarine;
 }
 
-p.footer {
+.footer {
     color: gray;
     text-align: right;
 }
